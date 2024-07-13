@@ -1,7 +1,9 @@
 # u7122029
 
-Hi there, welcome to my profile! I'm glad you're come to visit. 
+Hi there, welcome to my profile.
 
-A bit about myself: I like helping people. It's a simple premise, I know. I like keeping things simple. I particularly enjoy helping with research in Machine Learning, Deep Learning and topics surrounding Proof Assistants.
+I like Machine Learning, Deep Learning and topics surrounding Proof Assistants.
 
-Feel free to have a look around!
+I hope you like my profile.
+
+:)
